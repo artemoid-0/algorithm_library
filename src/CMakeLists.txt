@@ -1,0 +1,11 @@
+add_library(sorting_lib
+        sorting/quicksort.cpp
+        sorting/mergesort.cpp
+        data_structures/binary_tree.cpp
+        data_structures/avl_tree.cpp
+        data_structures/red_black_tree.cpp
+        graph_algorithms/dfs.cpp
+        graph_algorithms/bfs.cpp
+        optimization_algorithms/knapsack.cpp
+        optimization_algorithms/lcs.cpp
+)
